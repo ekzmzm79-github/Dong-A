@@ -1,0 +1,17 @@
+﻿Index,Kind,Name,Level,Stat,Price,Info,IsSell
+0,Weapon,무기1,1,10,100,기본 무기,TRUE
+1,Armour,방어구1,1,10,100,기본 방어구,TRUE
+2,Weapon,무기2,2,20,200,나은 무기,TRUE
+3,Armour,방어구2,2,20,200,나은 방어구,TRUE
+4,Weapon,무기3,3,30,300,좋은 무기,TRUE
+5,Armour,방어구3,3,30,300,좋은 방어구,TRUE
+6,Weapon,더미무기1,1,1,1,더미무기1,TRUE
+7,Weapon,더미무기2,2,1,1,더미무기2,TRUE
+8,Weapon,더미무기3,3,1,1,더미무기3,TRUE
+9,Armour,더미방어구1,1,1,1,더미방어구1,TRUE
+10,Armour,더미방어구2,2,1,1,더미방어구2,TRUE
+11,Armour,더미방어구3,3,1,1,더미방어구3,TRUE
+50,Common,잡템1,0,0,10,잡템1,FALSE
+51,Common,잡템2,0,0,20,잡템2,FALSE
+52,Common,잡템3,0,0,33,잡템3,FALSE
+53,Common,잡템4,0,0,45,잡템4,FALSE

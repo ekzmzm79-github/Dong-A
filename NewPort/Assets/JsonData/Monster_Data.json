@@ -1,0 +1,4 @@
+﻿[{"Index":0,"Kind":"Weak","Name":"Goblin","Level":1,"Many":5,"HP":100,"Attack":10,"Defence":1,"AttackSpeed":0.9,"MoveSpeed":3,"Exp":10,"Info":"고블린info"},
+{"Index":1,"Kind":"Nomal","Name":"Skeleton","Level":2,"Many":3,"HP":200,"Attack":20,"Defence":5,"AttackSpeed":0.72,"MoveSpeed":2.1,"Exp":20,"Info":"스켈레톤info"},
+{"Index":2,"Kind":"Strong","Name":"Titan","Level":3,"Many":2,"HP":300,"Attack":30,"Defence":8,"AttackSpeed":0.56,"MoveSpeed":1.5,"Exp":30,"Info":"타이탄info"},
+{"Index":101,"Kind":"Boss","Name":"BossMonster","Level":5,"Many":1,"HP":1000,"Attack":25,"Defence":10,"AttackSpeed":0.61,"MoveSpeed":1.7,"Exp":50,"Info":"보스info"}]

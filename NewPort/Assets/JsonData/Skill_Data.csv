@@ -1,0 +1,9 @@
+Index,User,Name,Kind,Count,Damage,Delay,Range,Cost,Info
+0,Player,Nomal,Nomal,1,15,0.2,10,0,기본공격
+1,Player,JumpShot,Nomal,1,25,0.3,20,20,점프공격
+2,Player,Combo,Combo,4,80,0.4,30,30,연속공격
+3,Player,Buff,Buff,1,0.1,0.28,20,15,무기버프
+4,Player,Missile,Missile,1,80,0.6,120,50,발사체공격
+101,Boss,BossNomal,Nomal,1,24,0.4,20,0,보스기본공격
+102,Boss,BossCombo,Combo,5,30,14,25,0,보스콤보공격
+103,Boss,BossUltimate,Ultimate,1,90,25,120,0,보스필살기

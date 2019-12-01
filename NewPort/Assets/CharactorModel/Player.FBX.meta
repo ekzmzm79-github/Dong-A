@@ -1,0 +1,2619 @@
+fileFormatVersion: 2
+guid: bdbec2e971b2ac84296924d37f7ca62b
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: body
+  - first:
+      1: 100002
+    second: Bone001
+  - first:
+      1: 100004
+    second: Bone002
+  - first:
+      1: 100006
+    second: Bone003
+  - first:
+      1: 100008
+    second: Bone004
+  - first:
+      1: 100010
+    second: Bone005
+  - first:
+      1: 100012
+    second: Bone006
+  - first:
+      1: 100014
+    second: Bone007
+  - first:
+      1: 100016
+    second: Bone008
+  - first:
+      1: 100018
+    second: Bone009
+  - first:
+      1: 100020
+    second: Bone010
+  - first:
+      1: 100022
+    second: Bone011
+  - first:
+      1: 100024
+    second: Bone012
+  - first:
+      1: 100026
+    second: Bone013
+  - first:
+      1: 100028
+    second: Bone014
+  - first:
+      1: 100030
+    second: Bone015
+  - first:
+      1: 100032
+    second: Bone016
+  - first:
+      1: 100034
+    second: Bone017
+  - first:
+      1: 100036
+    second: Bone018
+  - first:
+      1: 100038
+    second: Bone019
+  - first:
+      1: 100040
+    second: Bone020
+  - first:
+      1: 100042
+    second: Bone021
+  - first:
+      1: 100044
+    second: Bone022
+  - first:
+      1: 100046
+    second: Bone023
+  - first:
+      1: 100048
+    second: Bone024
+  - first:
+      1: 100050
+    second: Bone025
+  - first:
+      1: 100052
+    second: Bone026
+  - first:
+      1: 100054
+    second: Bone027
+  - first:
+      1: 100056
+    second: Bone028
+  - first:
+      1: 100058
+    second: Bone029
+  - first:
+      1: 100060
+    second: Bone030
+  - first:
+      1: 100062
+    second: Bone031
+  - first:
+      1: 100064
+    second: Bone032
+  - first:
+      1: 100066
+    second: Bone033
+  - first:
+      1: 100068
+    second: Bone034
+  - first:
+      1: 100070
+    second: Bone035
+  - first:
+      1: 100072
+    second: Bone036
+  - first:
+      1: 100074
+    second: Bone037
+  - first:
+      1: 100076
+    second: Bone038
+  - first:
+      1: 100078
+    second: Bone039
+  - first:
+      1: 100080
+    second: DfemaleHead
+  - first:
+      1: 100082
+    second: DfemaleL
+  - first:
+      1: 100084
+    second: DfemaleLCalf
+  - first:
+      1: 100086
+    second: DfemaleLCollarbone
+  - first:
+      1: 100088
+    second: DfemaleLfinger1
+  - first:
+      1: 100090
+    second: DfemaleLfinger2
+  - first:
+      1: 100092
+    second: DfemaleLFoot
+  - first:
+      1: 100094
+    second: DfemaleLForearm
+  - first:
+      1: 100096
+    second: DfemaleLIKTarget
+  - first:
+      1: 100098
+    second: DfemaleLPalm
+  - first:
+      1: 100100
+    second: DfemaleLThigh
+  - first:
+      1: 100102
+    second: DfemaleLThumb1
+  - first:
+      1: 100104
+    second: DfemaleLThumb2
+  - first:
+      1: 100106
+    second: DfemaleLUpperarm
+  - first:
+      1: 100108
+    second: DfemaleNeck
+  - first:
+      1: 100110
+    second: DfemalePelvis
+  - first:
+      1: 100112
+    second: DfemaleR
+  - first:
+      1: 100114
+    second: DfemaleRCalf
+  - first:
+      1: 100116
+    second: DfemaleRCollarbone
+  - first:
+      1: 100118
+    second: DfemaleRfinger1
+  - first:
+      1: 100120
+    second: DfemaleRfinger2
+  - first:
+      1: 100122
+    second: DfemaleRFoot
+  - first:
+      1: 100124
+    second: DfemaleRForearm
+  - first:
+      1: 100126
+    second: DfemaleRibcage
+  - first:
+      1: 100128
+    second: DfemaleRIKTarget
+  - first:
+      1: 100130
+    second: DfemaleRPalm
+  - first:
+      1: 100132
+    second: DfemaleRThigh
+  - first:
+      1: 100134
+    second: DfemaleRThumb1
+  - first:
+      1: 100136
+    second: DfemaleRThumb2
+  - first:
+      1: 100138
+    second: DfemaleRUpperarm
+  - first:
+      1: 100140
+    second: DfemaleSpine1
+  - first:
+      1: 100142
+    second: DfemaleSpine2
+  - first:
+      1: 100144
+    second: weapon
+  - first:
+      1: 100146
+    second: //RootNode
+  - first:
+      4: 400000
+    second: body
+  - first:
+      4: 400002
+    second: Bone001
+  - first:
+      4: 400004
+    second: Bone002
+  - first:
+      4: 400006
+    second: Bone003
+  - first:
+      4: 400008
+    second: Bone004
+  - first:
+      4: 400010
+    second: Bone005
+  - first:
+      4: 400012
+    second: Bone006
+  - first:
+      4: 400014
+    second: Bone007
+  - first:
+      4: 400016
+    second: Bone008
+  - first:
+      4: 400018
+    second: Bone009
+  - first:
+      4: 400020
+    second: Bone010
+  - first:
+      4: 400022
+    second: Bone011
+  - first:
+      4: 400024
+    second: Bone012
+  - first:
+      4: 400026
+    second: Bone013
+  - first:
+      4: 400028
+    second: Bone014
+  - first:
+      4: 400030
+    second: Bone015
+  - first:
+      4: 400032
+    second: Bone016
+  - first:
+      4: 400034
+    second: Bone017
+  - first:
+      4: 400036
+    second: Bone018
+  - first:
+      4: 400038
+    second: Bone019
+  - first:
+      4: 400040
+    second: Bone020
+  - first:
+      4: 400042
+    second: Bone021
+  - first:
+      4: 400044
+    second: Bone022
+  - first:
+      4: 400046
+    second: Bone023
+  - first:
+      4: 400048
+    second: Bone024
+  - first:
+      4: 400050
+    second: Bone025
+  - first:
+      4: 400052
+    second: Bone026
+  - first:
+      4: 400054
+    second: Bone027
+  - first:
+      4: 400056
+    second: Bone028
+  - first:
+      4: 400058
+    second: Bone029
+  - first:
+      4: 400060
+    second: Bone030
+  - first:
+      4: 400062
+    second: Bone031
+  - first:
+      4: 400064
+    second: Bone032
+  - first:
+      4: 400066
+    second: Bone033
+  - first:
+      4: 400068
+    second: Bone034
+  - first:
+      4: 400070
+    second: Bone035
+  - first:
+      4: 400072
+    second: Bone036
+  - first:
+      4: 400074
+    second: Bone037
+  - first:
+      4: 400076
+    second: Bone038
+  - first:
+      4: 400078
+    second: Bone039
+  - first:
+      4: 400080
+    second: DfemaleHead
+  - first:
+      4: 400082
+    second: DfemaleL
+  - first:
+      4: 400084
+    second: DfemaleLCalf
+  - first:
+      4: 400086
+    second: DfemaleLCollarbone
+  - first:
+      4: 400088
+    second: DfemaleLfinger1
+  - first:
+      4: 400090
+    second: DfemaleLfinger2
+  - first:
+      4: 400092
+    second: DfemaleLFoot
+  - first:
+      4: 400094
+    second: DfemaleLForearm
+  - first:
+      4: 400096
+    second: DfemaleLIKTarget
+  - first:
+      4: 400098
+    second: DfemaleLPalm
+  - first:
+      4: 400100
+    second: DfemaleLThigh
+  - first:
+      4: 400102
+    second: DfemaleLThumb1
+  - first:
+      4: 400104
+    second: DfemaleLThumb2
+  - first:
+      4: 400106
+    second: DfemaleLUpperarm
+  - first:
+      4: 400108
+    second: DfemaleNeck
+  - first:
+      4: 400110
+    second: DfemalePelvis
+  - first:
+      4: 400112
+    second: DfemaleR
+  - first:
+      4: 400114
+    second: DfemaleRCalf
+  - first:
+      4: 400116
+    second: DfemaleRCollarbone
+  - first:
+      4: 400118
+    second: DfemaleRfinger1
+  - first:
+      4: 400120
+    second: DfemaleRfinger2
+  - first:
+      4: 400122
+    second: DfemaleRFoot
+  - first:
+      4: 400124
+    second: DfemaleRForearm
+  - first:
+      4: 400126
+    second: DfemaleRibcage
+  - first:
+      4: 400128
+    second: DfemaleRIKTarget
+  - first:
+      4: 400130
+    second: DfemaleRPalm
+  - first:
+      4: 400132
+    second: DfemaleRThigh
+  - first:
+      4: 400134
+    second: DfemaleRThumb1
+  - first:
+      4: 400136
+    second: DfemaleRThumb2
+  - first:
+      4: 400138
+    second: DfemaleRUpperarm
+  - first:
+      4: 400140
+    second: DfemaleSpine1
+  - first:
+      4: 400142
+    second: DfemaleSpine2
+  - first:
+      4: 400144
+    second: weapon
+  - first:
+      4: 400146
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: body
+  - first:
+      74: 7400000
+    second: zhaoyun_stand
+  - first:
+      74: 7400002
+    second: zhaoyun_run
+  - first:
+      74: 7400004
+    second: zhaoyun_attack
+  - first:
+      74: 7400006
+    second: zhaoyun_magic
+  - first:
+      74: 7400008
+    second: zhaoyun_ultimate
+  - first:
+      74: 7400010
+    second: zhaoyun_death
+  - first:
+      74: 7400012
+    second: zhaoyun_attacked
+  - first:
+      74: 7400014
+    second: zhaoyun_victory
+  - first:
+      74: 7400016
+    second: zhaoyun_ultimate1
+  - first:
+      74: 7400018
+    second: zhaoyun_ultimate2
+  - first:
+      74: 7400020
+    second: zhaoyun_ultimate3
+  - first:
+      74: 7400022
+    second: zhaoyun_ultimate5
+  - first:
+      74: 7400024
+    second: zhaoyun_ultimate5
+  - first:
+      74: 7400026
+    second: zhaoyun_ultimate4
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: body
+  - first:
+      74: -2454988484913988430
+    second: zhayun_combo
+  - first:
+      74: -1617340199540901324
+    second: zhayun_buff
+  - first:
+      74: 1827226128182048838
+    second: Missile01
+  - first:
+      74: -1296343894166160979
+    second: Missile02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: f9f9b821643f84b4484cdc3c30dc70d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #169'
+    second: {fileID: 2100000, guid: f9f9b821643f84b4484cdc3c30dc70d4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: zhaoyun_stand
+      takeName: 
+      internalID: 7400000
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Attack_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_run
+      takeName: 
+      internalID: 7400002
+      firstFrame: 50
+      lastFrame: 70
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_attack
+      takeName: 
+      internalID: 7400004
+      firstFrame: 90
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.496994
+        functionName: Effect_Start
+        data: Basic
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.99347824
+        functionName: Attack_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_magic
+      takeName: 
+      internalID: 7400006
+      firstFrame: 130
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.59356135
+        functionName: Effect_Start
+        data: Skill1
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9350648
+        functionName: Attack_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate
+      takeName: 
+      internalID: 7400008
+      firstFrame: 180
+      lastFrame: 281
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.37556562
+        functionName: preAction
+        data: Ultimate|0
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.43891406
+        functionName: preAction
+        data: Ultimate|1
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.52714926
+        functionName: preAction
+        data: Ultimate|2
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.67194575
+        functionName: preAction
+        data: Ultimate|3
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7941177
+        functionName: preAction
+        data: Ultimate|4
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9977375
+        functionName: ActionDone
+        data: Ultimate
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: ActionStart
+        data: Ultimate
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_death
+      takeName: 
+      internalID: 7400010
+      firstFrame: 295
+      lastFrame: 325
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9932127
+        functionName: ActionDone
+        data: Death
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: ActionStart
+        data: Death
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_attacked
+      takeName: 
+      internalID: 7400012
+      firstFrame: 335
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Hurt_Start
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: cc66a79b2c605fd4cb38f46a2fe2d063,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7458834
+        functionName: Hurt_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: cc66a79b2c605fd4cb38f46a2fe2d063,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_victory
+      takeName: 
+      internalID: 7400014
+      firstFrame: 365
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate1
+      takeName: Take 001
+      internalID: 7400016
+      firstFrame: 200
+      lastFrame: 201
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate2
+      takeName: Take 001
+      internalID: 7400018
+      firstFrame: 219
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate3
+      takeName: Take 001
+      internalID: 7400020
+      firstFrame: 229
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate5
+      takeName: Take 001
+      internalID: 7400022
+      firstFrame: 247
+      lastFrame: 248
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhaoyun_ultimate4
+      takeName: Take 001
+      internalID: 7400026
+      firstFrame: 239
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhayun_combo
+      takeName: Take 001
+      internalID: -2454988484913988430
+      firstFrame: 210
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.0761523
+        functionName: Effect_Start
+        data: Skill2_1
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Attack_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.32132122
+        functionName: Effect_Start
+        data: Skill2_2
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5345347
+        functionName: Effect_Start
+        data: Skill2_3
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8528525
+        functionName: Effect_Start
+        data: Skill2_4
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zhayun_buff
+      takeName: Take 001
+      internalID: -1617340199540901324
+      firstFrame: 365
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Effect_Start
+        data: Skill3
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Missile01
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 183
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Missile02
+      takeName: Take 001
+      internalID: -1296343894166160979
+      firstFrame: 250
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.50869566
+        functionName: Effect_Start
+        data: Skill4
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.99796724
+        functionName: Attack_End
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: c8ded7badd083514080c90e7b129462b,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DfemalePelvis
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleLThigh/DfemaleLCalf/DfemaleLFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/DfemaleRCalf/DfemaleRFoot
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone036/Bone037/Bone038/Bone039
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034
+        weight: 1
+      - path: DfemalePelvis/DfemaleRThigh/Bone032/Bone033/Bone034/Bone035
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLThumb1/DfemaleLThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleLCollarbone/DfemaleLUpperarm/DfemaleLForearm/DfemaleLPalm/DfemaleLfinger1/DfemaleLfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRThumb1/DfemaleRThumb2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleRCollarbone/DfemaleRUpperarm/DfemaleRForearm/DfemaleRPalm/DfemaleRfinger1/DfemaleRfinger2
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone005/Bone006/Bone007/Bone008/Bone009/Bone010
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/DfemaleNeck/DfemaleHead/Bone023/Bone024/Bone025/Bone026/Bone027
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone017/Bone018/Bone019/Bone020/Bone021/Bone022
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015
+        weight: 1
+      - path: DfemalePelvis/DfemaleSpine1/DfemaleSpine2/DfemaleRibcage/Bone011/Bone012/Bone013/Bone014/Bone015/Bone016
+        weight: 1
+      - path: DfemalePelvis/Bone028
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030
+        weight: 1
+      - path: DfemalePelvis/Bone028/Bone029/Bone030/Bone031
+        weight: 1
+      - path: DfemaleL
+        weight: 1
+      - path: DfemaleR
+        weight: 1
+      - path: DfemaleLIKTarget
+        weight: 1
+      - path: DfemaleRIKTarget
+        weight: 1
+      - path: weapon
+        weight: 1
+      - path: body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

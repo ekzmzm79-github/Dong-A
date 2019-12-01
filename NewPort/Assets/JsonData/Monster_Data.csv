@@ -1,0 +1,5 @@
+Index,Kind,Name,Level,Many,HP,Attack,Defence,AttackSpeed,MoveSpeed,Exp,Info
+0,Weak,Goblin,1,5,100,10,1,0.9,3,10,∞Ì∫Ì∏∞info
+1,Nomal,Skeleton,2,3,200,20,5,0.72,2.1,20,Ω∫ƒÃ∑π≈Êinfo
+2,Strong,Titan,3,2,300,30,8,0.56,1.5,30,≈∏¿Ã≈∫info
+101,Boss,BossMonster,5,1,1000,25,10,0.61,1.7,50,∫∏Ω∫info

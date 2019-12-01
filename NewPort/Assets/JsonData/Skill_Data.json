@@ -1,0 +1,8 @@
+﻿[{"Index":0,"User":"Player","Name":"Nomal","Kind":"Nomal","Count":1,"Damage":15,"Delay":0.2,"Range":10,"Cost":0,"Info":"기본공격"},
+{"Index":1,"User":"Player","Name":"JumpShot","Kind":"Nomal","Count":1,"Damage":25,"Delay":0.3,"Range":20,"Cost":20,"Info":"점프공격"},
+{"Index":2,"User":"Player","Name":"Combo","Kind":"Combo","Count":4,"Damage":80,"Delay":0.4,"Range":30,"Cost":30,"Info":"연속공격"},
+{"Index":3,"User":"Player","Name":"Buff","Kind":"Buff","Count":1,"Damage":0.1,"Delay":0.28,"Range":20,"Cost":15,"Info":"무기버프"},
+{"Index":4,"User":"Player","Name":"Missile","Kind":"Missile","Count":1,"Damage":80,"Delay":0.6,"Range":120,"Cost":50,"Info":"발사체공격"},
+{"Index":101,"User":"Boss","Name":"BossNomal","Kind":"Nomal","Count":1,"Damage":24,"Delay":0.4,"Range":20,"Cost":0,"Info":"보스기본공격"},
+{"Index":102,"User":"Boss","Name":"BossCombo","Kind":"Combo","Count":5,"Damage":30,"Delay":14,"Range":25,"Cost":0,"Info":"보스콤보공격"},
+{"Index":103,"User":"Boss","Name":"BossUltimate","Kind":"Ultimate","Count":1,"Damage":90,"Delay":25,"Range":120,"Cost":0,"Info":"보스필살기"}]
